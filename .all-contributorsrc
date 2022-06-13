@@ -15,6 +15,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "sorcerer-worker",
+      "name": "sorcerer-worker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81059531?v=4",
+      "profile": "https://github.com/sorcerer-worker",
+      "contributions": [
+        "design",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
